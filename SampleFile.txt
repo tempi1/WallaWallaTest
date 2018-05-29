@@ -3,4 +3,4 @@ World
 This
 is
 a
-test
+test.
